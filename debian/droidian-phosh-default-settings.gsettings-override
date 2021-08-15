@@ -1,0 +1,11 @@
+[sm.puri.phosh]
+# Favourites:
+#  - Calls
+#  - Messages
+#  - Firefox
+#  - Settings
+favorites=['org.gnome.Calls.desktop', 'sm.puri.Chatty.desktop', 'firefox-esr.desktop', 'gnome-control-center.desktop']
+
+# Disable app filtering for now
+app-filter-mode=@as []
+
