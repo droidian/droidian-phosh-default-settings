@@ -9,3 +9,6 @@ favorites=['org.gnome.Calls.desktop', 'sm.puri.Chatty.desktop', 'firefox-esr.des
 # Disable app filtering for now
 app-filter-mode=@as []
 
+[org.gnome.Calls]
+# Autoload ofono and sip plugins
+autoload-plugins=['ofono', 'sip']
