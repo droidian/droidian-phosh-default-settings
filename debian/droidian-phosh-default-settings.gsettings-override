@@ -12,3 +12,6 @@ app-filter-mode=@as []
 [org.gnome.Calls]
 # Autoload ofono and sip plugins
 autoload-plugins=['ofono', 'sip']
+
+[org.gnome.desktop.background]
+picture-uri='file:///usr/share/backgrounds/droidian/droidian.xml'
