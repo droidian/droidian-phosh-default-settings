@@ -9,7 +9,8 @@ Vcs-Git: https://github.com/droidian/droidian-phosh-default-settings.git
 
 Package: droidian-phosh-default-settings
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
+  adw-gtk3,
 Description: Default settings for Droidian - phosh desktop
  This package contains various default settings for Droidian
  (phosh desktop).
