@@ -18,3 +18,6 @@ picture-uri='file:///usr/share/backgrounds/droidian/droidian.xml'
 
 [org.gnome.desktop.interface]
 gtk-theme='adw-gtk3'
+
+[org.gnome.Settings]
+do-not-load-panel=true
