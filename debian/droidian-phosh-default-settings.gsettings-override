@@ -21,3 +21,6 @@ gtk-theme='adw-gtk3'
 
 [org.gnome.settings-daemon.plugins.wwan]
 unlock-sim=true
+
+[org.gnome.nautilus.preferences]
+click-policy='single'
