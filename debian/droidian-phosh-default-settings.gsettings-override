@@ -25,6 +25,9 @@ unlock-sim=true
 [org.gnome.nautilus.preferences]
 click-policy='single'
 
+[org.gnome.Settings]
+do-not-load-panel=true
+
 [org.gnome.settings-daemon.plugins.power]
 sleep-inactive-ac-type = 'nothing'
 sleep-inactive-battery-type = 'nothing'
