@@ -31,3 +31,8 @@ do-not-load-panel=true
 [org.gnome.settings-daemon.plugins.power]
 sleep-inactive-ac-type = 'nothing'
 sleep-inactive-battery-type = 'nothing'
+
+[org.gnome.software]
+official-repos = ['droidian-*']
+required-repos = ['droidian-rolling-*']
+free-repos = ['droidian-rolling-main']
