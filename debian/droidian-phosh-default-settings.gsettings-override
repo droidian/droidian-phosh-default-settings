@@ -18,6 +18,7 @@ picture-uri='file:///usr/share/backgrounds/droidian/droidian.xml'
 
 [org.gnome.desktop.interface]
 gtk-theme='adw-gtk3'
+accent-color='green'
 
 [org.gnome.settings-daemon.plugins.wwan]
 unlock-sim=true
