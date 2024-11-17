@@ -9,6 +9,9 @@ favorites=['org.gnome.Calls.desktop', 'sm.puri.Chatty.desktop', 'firefox.desktop
 # Disable app filtering for now
 app-filter-mode=@as []
 
+[sm.puri.phosh.plugins]
+quick-settings=['dark-mode-quick-setting', 'mobile-data-quick-setting', 'wifi-hotspot-quick-setting']
+
 [org.gnome.Calls]
 # Autoload ofono and sip plugins
 autoload-plugins=['ofono', 'sip']
