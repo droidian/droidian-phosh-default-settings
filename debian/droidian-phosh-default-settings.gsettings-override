@@ -4,7 +4,7 @@
 #  - Messages
 #  - Firefox
 #  - Settings
-favorites=['org.gnome.Calls.desktop', 'sm.puri.Chatty.desktop', 'firefox-esr.desktop', 'org.gnome.Settings.desktop']
+favorites=['org.gnome.Calls.desktop', 'sm.puri.Chatty.desktop', 'firefox.desktop', 'org.gnome.Settings.desktop']
 
 # Disable app filtering for now
 app-filter-mode=@as []
