@@ -18,10 +18,10 @@ autoload-plugins=['ofono', 'sip']
 
 [org.gnome.desktop.background:Phosh]
 picture-uri='file:///usr/share/backgrounds/droidian/droidian-emerald.jxl'
-picture-uri-dark='file:///usr/share/backgrounds/gnome/droidian-emerald.jxl'
+picture-uri-dark='file:///usr/share/backgrounds/droidian/droidian-emerald.jxl'
 
 [org.gnome.desktop.screensaver:Phosh]
-picture-uri='file:///usr/share/backgrounds/gnome/droidian-emerald.jxl'
+picture-uri='file:///usr/share/backgrounds/droidian/droidian-emerald.jxl'
 
 [org.gnome.desktop.interface:Phosh]
 gtk-theme='adw-gtk3'
